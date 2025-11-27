@@ -56,7 +56,7 @@ BRASILHISTORIA/
 └── galeria.html
 ```
 
-🚀 Como Executar
+🚀 Como executar
 
 1. Clone este repositório:
 ```bash
@@ -72,12 +72,12 @@ cd brasil-historia
 
 Ou simplesmente faça o download e abra o arquivo `index.html` diretamente.
 
-🎯 Páginas do Site
+🎯 Páginas do site
 
 💠 1. Início (index.html)
 Página de boas-vindas com vídeo de fundo e menu de navegação vintage.
 
-💠 2. Linha do Tempo (linhatime.html)
+💠 2. Linha do tempo (linhatime.html)
 Linha do tempo interativa com eventos históricos organizados por períodos. Clique nos ícones para expandir e visualizar os eventos de cada época.
 
 💠 3. Galeria (galeria.html)
@@ -85,10 +85,10 @@ Galeria de imagens históricas com legendas descritivas, incluindo:
 - Chegada dos portugueses ao Brasil
 - Dom Pedro I e a família imperial
 - Processo de colonização
-- Proclamação da Independência
+- Proclamação da independência
 - E muito mais!
 
-## 🎨 Características Visuais
+## 🎨 Características visuais
 
 - *Tema Vintage*: Design inspirado em documentos históricos
 - *Paleta de Cores*: Tons de bege (#f5deb3), dourado (#b9a377) e sépia
@@ -108,15 +108,15 @@ Galeria de imagens históricas com legendas descritivas, incluindo:
 
 ---
 
-🌟 Destaques do Código
+🌟 Destaques do código
 
-⚪ Menu de Navegação Fixo
+⚪ Menu de navegação fixo
 Menu vintage com efeito glass morphism e logo animada.
 
-⚪ Linha do Tempo Responsiva
+⚪ Linha do rempo responsiva
 Sistema de expansão/colapso de eventos históricos com JavaScript vanilla.
 
-⚪ Galeria Otimizada
+⚪ Galeria otimizada
 Layout responsivo com imagens e legendas bem organizadas.
 
 📱 Responsividade
@@ -126,7 +126,7 @@ O site é totalmente responsivo e se adapta a:
 - Tablets (768px - 1199px)
 - Smartphones (até 767px)
 
-🔮 Melhorias Futuras
+🔮 Melhorias futuras
 
 - [ ] Adicionar mais conteúdo histórico
 - [ ] Implementar sistema de busca
