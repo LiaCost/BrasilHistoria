@@ -1,10 +1,10 @@
-Brasil História 🇧🇷
+Brasil História
 
 Um projeto acadêmico front-end que apresenta uma jornada interativa pela história do Brasil, desde o período pré-colonial até os dias atuais.
 
 ![Brasil História](imagens/Logo.png)
 
-📚 Sobre o Projeto
+📚 Sobre o projeto
 
 Este site educacional foi desenvolvido como um projeto acadêmico para apresentar de forma visual e interativa os principais eventos históricos do Brasil. Com um design vintage que remete aos tempos coloniais, o projeto oferece uma experiência imersiva através de vídeos de fundo, linha do tempo interativa e uma galeria histórica.
 
